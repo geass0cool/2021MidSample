@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <div><h2>會員註冊</h2></div>
-            <div>   <asp:Label ID="lb_Acc" runat="server" Text="會員名稱" AssociatedControlID="tb_Acc"></asp:Label>
+            <div>   <asp:Label ID="lb_Acc" runat="server" Text="會214124員名稱" AssociatedControlID="tb_Acc"></asp:Label>
                     <asp:TextBox ID="tb_Acc" runat="server"></asp:TextBox>
             </div>
         </div>
